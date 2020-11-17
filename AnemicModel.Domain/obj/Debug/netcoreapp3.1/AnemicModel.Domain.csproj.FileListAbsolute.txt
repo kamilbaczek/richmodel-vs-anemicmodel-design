@@ -1,0 +1,9 @@
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\obj\Debug\netcoreapp3.1\AnemicModel.Domain.csprojAssemblyReference.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\obj\Debug\netcoreapp3.1\AnemicModel.Domain.AssemblyInfoInputs.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\obj\Debug\netcoreapp3.1\AnemicModel.Domain.AssemblyInfo.cs
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\obj\Debug\netcoreapp3.1\AnemicModel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\bin\Debug\netcoreapp3.1\AnemicModel.Domain.deps.json
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\bin\Debug\netcoreapp3.1\AnemicModel.Domain.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\bin\Debug\netcoreapp3.1\AnemicModel.Domain.pdb
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\obj\Debug\netcoreapp3.1\AnemicModel.Domain.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Domain\obj\Debug\netcoreapp3.1\AnemicModel.Domain.pdb

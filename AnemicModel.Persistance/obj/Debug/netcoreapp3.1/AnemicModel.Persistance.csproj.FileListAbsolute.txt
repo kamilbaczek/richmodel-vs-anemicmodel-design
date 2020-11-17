@@ -1,0 +1,14 @@
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\bin\Debug\netcoreapp3.1\AnemicModel.Persistance.deps.json
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\bin\Debug\netcoreapp3.1\AnemicModel.Persistance.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\bin\Debug\netcoreapp3.1\AnemicModel.Persistance.pdb
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\bin\Debug\netcoreapp3.1\AnemicModel.Application.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\bin\Debug\netcoreapp3.1\AnemicModel.Domain.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\bin\Debug\netcoreapp3.1\AnemicModel.Application.pdb
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\bin\Debug\netcoreapp3.1\AnemicModel.Domain.pdb
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\obj\Debug\netcoreapp3.1\AnemicModel.Persistance.csprojAssemblyReference.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\obj\Debug\netcoreapp3.1\AnemicModel.Persistance.AssemblyInfoInputs.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\obj\Debug\netcoreapp3.1\AnemicModel.Persistance.AssemblyInfo.cs
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\obj\Debug\netcoreapp3.1\AnemicModel.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\obj\Debug\netcoreapp3.1\AnemicModel.Persistance.csproj.CopyComplete
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\obj\Debug\netcoreapp3.1\AnemicModel.Persistance.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Persistance\obj\Debug\netcoreapp3.1\AnemicModel.Persistance.pdb

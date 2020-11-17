@@ -1,0 +1,12 @@
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\bin\Debug\netcoreapp3.1\AnemicModel.Application.deps.json
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\bin\Debug\netcoreapp3.1\AnemicModel.Application.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\bin\Debug\netcoreapp3.1\AnemicModel.Application.pdb
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\bin\Debug\netcoreapp3.1\AnemicModel.Domain.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\bin\Debug\netcoreapp3.1\AnemicModel.Domain.pdb
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\obj\Debug\netcoreapp3.1\AnemicModel.Application.csprojAssemblyReference.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\obj\Debug\netcoreapp3.1\AnemicModel.Application.AssemblyInfoInputs.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\obj\Debug\netcoreapp3.1\AnemicModel.Application.AssemblyInfo.cs
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\obj\Debug\netcoreapp3.1\AnemicModel.Application.csproj.CoreCompileInputs.cache
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\obj\Debug\netcoreapp3.1\AnemicModel.Application.csproj.CopyComplete
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\obj\Debug\netcoreapp3.1\AnemicModel.Application.dll
+C:\Users\kaba\RiderProjects\BasicDotnetForAdvanced\AnemicModel.Application\obj\Debug\netcoreapp3.1\AnemicModel.Application.pdb

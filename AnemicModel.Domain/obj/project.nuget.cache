@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "07xuMdudlLE1+2C3xeN9lwABlU3+24uXP38dyIVeUKY9FXBdS/QtQlcaITxKBw0y0M1m9OlZf+hzNi0/u0/NoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaba\\RiderProjects\\BasicDotnetForAdvanced\\AnemicModel.Domain\\AnemicModel.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-rc.2.20475.6\\microsoft.entityframeworkcore.5.0.0-rc.2.20475.6.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-rc.2.20475.6\\microsoft.entityframeworkcore.abstractions.5.0.0-rc.2.20475.6.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0-rc.2.20475.6\\microsoft.entityframeworkcore.analyzers.5.0.0-rc.2.20475.6.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-rc.2.20475.5\\microsoft.extensions.caching.abstractions.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-rc.2.20475.5\\microsoft.extensions.caching.memory.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-rc.2.20475.5\\microsoft.extensions.dependencyinjection.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-rc.2.20475.5\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-rc.2.20475.5\\microsoft.extensions.logging.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-rc.2.20475.5\\microsoft.extensions.logging.abstractions.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-rc.2.20475.5\\microsoft.extensions.options.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-rc.2.20475.5\\microsoft.extensions.primitives.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\system.collections.immutable\\5.0.0-rc.2.20475.5\\system.collections.immutable.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-rc.2.20475.5\\system.componentmodel.annotations.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\kaba\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-rc.2.20475.5\\system.diagnostics.diagnosticsource.5.0.0-rc.2.20475.5.nupkg.sha512"
+  ],
+  "logs": []
+}
